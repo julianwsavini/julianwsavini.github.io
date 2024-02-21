@@ -16,8 +16,8 @@ UI/UX Design - ISS Group - July 2023-Present
 Designed and developed new Purchase Order frontend using modern UX principles
 Built intuitive interface with HTML, Material Design Bootstrap, JavaScript
 Applied A/B testing to optimize app features and usability
-Data Visualization - [BlueBike Traffic/Accident Analysis](https://ds4200-s23-class.github.io/project-julian-jake-david-aneek/)
 
+Data Visualization - [BlueBike Traffic/Accident Analysis](https://ds4200-s23-class.github.io/project-julian-jake-david-aneek/)
 Created interactive data visualization of city bike traffic using tooltips and brushing/linking
 Built with HTML, CSS, and JavaScript to provide insights for city planners
 Machine Learning - Fake News Classifier [link to code or demo]
