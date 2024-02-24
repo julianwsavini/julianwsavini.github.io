@@ -12,14 +12,10 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 ## Recipe Recommendation System (Group Project)
 Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
 
-## UI/UX Design - ISS Group
+## UI/UX Design (Co-Op) - ISS Group
 Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
 
-
 <img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e"/>
-![mobile](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/d3e6bcaf-f70d-4563-95dc-8259ec27d3da)
-![master_comments](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/85a8d525-a615-4dcb-936f-48f3902b3740)
-
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis]([https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project])
 Created interactive data visualization of city bike traffic using tooltips and brushing/linking. Built with HTML, CSS, and JavaScript (d3 Library) to provide insights for city planners.
