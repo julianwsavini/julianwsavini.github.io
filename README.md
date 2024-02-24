@@ -14,7 +14,8 @@ Constructed a website using HTML, CSS, and Neo4j to provide users with recipe su
 
 ## UI/UX Design - ISS Group
 Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
-![main_page](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e =100x20)
+<img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e" width="200" height="200" />
+![main_page](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e)
 ![mobile](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/d3e6bcaf-f70d-4563-95dc-8259ec27d3da)
 ![master_comments](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/85a8d525-a615-4dcb-936f-48f3902b3740)
 
