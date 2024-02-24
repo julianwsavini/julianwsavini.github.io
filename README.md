@@ -7,22 +7,22 @@ I am motivated to continue learning, honing my skills, and solving problems with
 
 As I explore professional roles, I am seeking opportunities to apply my technical skills while connecting with end-users to develop intuitive, user-friendly applications. Please feel free to contact me to learn more about my background and skillset.
 
-## Projects
+# Projects
 
-### Recipe Recommendation System (Group Project)
+## Recipe Recommendation System (Group Project)
 Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
 
-### UI/UX Design - ISS Group
+## UI/UX Design - ISS Group
 Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
 
-### Data Visualization - [BlueBike Traffic/Accident Analysis](https://ds4200-s23-class.github.io/project-julian-jake-david-aneek/)
-Created interactive data visualization of city bike traffic using tooltips and brushing/linking. Built with HTML, CSS, and JavaScript to provide insights for city planners.
+## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis]([https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project])
+Created interactive data visualization of city bike traffic using tooltips and brushing/linking. Built with HTML, CSS, and JavaScript (d3 Library) to provide insights for city planners.
 
-### Machine Learning - News Classifier [link to code or demo]
+## Machine Learning - [News Classifier]([https://github.com/julianwsavini/news_classification])
 Constructed ML model to identify potentially false news articles with 92% accuracy. Utilized Python and scikit-learn to train and test classification algorithm.
 
-## Future Projects
+# Future Projects
 
-### Song chord prediction with Markov chains (Python)
+## Song chord prediction with Markov chains (Python)
 
-### Recipe box web application focusing on user testing and UX (Figma, [other UX tools])
+## Recipe box web application focusing on user testing and UX (Figma, [other UX tools])
