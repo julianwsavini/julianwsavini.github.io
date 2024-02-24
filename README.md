@@ -14,6 +14,7 @@ Constructed a website using HTML, CSS, and Neo4j to provide users with recipe su
 
 ## UI/UX Design - ISS Group
 Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
+![main_page](https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e)
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis]([https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project])
 Created interactive data visualization of city bike traffic using tooltips and brushing/linking. Built with HTML, CSS, and JavaScript (d3 Library) to provide insights for city planners.
