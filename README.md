@@ -12,15 +12,15 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 ## Recipe Recommendation System (Group Project)
 Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
 
-## UI/UX Design (Co-Op) - ISS Group - [See UI Here]([https://github.com/julianwsavini/Co-Op-Project)
+## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
 Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
 
 <img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e"/>
 
-## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis]([https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project])
+## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis](https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project)
 Created interactive data visualization of city bike traffic using tooltips and brushing/linking. Built with HTML, CSS, and JavaScript (d3 Library) to provide insights for city planners.
 
-## Machine Learning - [News Classifier]([https://github.com/julianwsavini/news_classification])
+## Machine Learning - [News Classifier](https://github.com/julianwsavini/news_classification)
 Constructed ML model to identify potentially false news articles with 92% accuracy. Utilized Python and scikit-learn to train and test classification algorithm.
 
 # Future Projects
