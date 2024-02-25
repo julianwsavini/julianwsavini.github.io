@@ -12,10 +12,6 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 ## Recipe Recommendation System (Group Project)
 Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
 
-## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
-Designed and developed new Purchase Order frontend using modern UX principles. Built intuitive interface with HTML, Material Design Bootstrap, and JavaScript. Applied A/B testing to optimize app features and usability.
-
-<img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e"/>
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis](https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project)
 We were tasked with creating data visualizations that can be of use to a designated stakeholder. We designed an interactive graph for the team at BlueBikes responsible for deploying stations. Our visualizations used bike accident data paired with station data, to hopefully ensure safety of the BlueBikes customers. The first graph is a heat map of bike accidents, with points of where stations are located. If you hover over the points, you can see the in and out flow of each station. If you switch modes, you can drag your mouse over the left graph to see where accidents are occuring (street versus intersection). This data can be of use to our stakeholders, who can hopefully use this to carefully place stations away from hazardous areas.
@@ -27,10 +23,38 @@ Once my group had created the heatmap, I was responsible for making the bar and 
 - HTML
 - CSS
 - Javascript (d3 library)
+
+### What Skills I Gained:
+- Creating interactive visualizations using Javascript's d3 library
+- Design Thinking
+- Collaboration
+
 Check out site here: [BlueBikes Visualization](https://ds4200-s23-class.github.io/project-julian-jake-david-aneek/)
 
+
 ## Machine Learning - [News Classifier](https://github.com/julianwsavini/news_classification)
-Constructed ML model to identify potentially false news articles with 92% accuracy. Utilized Python and scikit-learn to train and test classification algorithm.
+Although it was only my second year programming, I wanted to be ambitious, and use Natural Language Processing and Machine Learning to determine if a news article contains false information.
+
+This was a group project, and I was responsible for constructing the machine learning models. Since others had not had any experience in Python, we wanted to play to our strengths, so as others were doing research and creating the project proposals, posters, and slides, I was very excited to perform machine learning. I utilized K-Nearest Neighbors, Gaussian NB, and Random Forest models to train my data, with the best model receiving an accuracy of 89.2% accuracy.
+
+### What skills I gained:
+- Natural Language Processing Data Cleaning Methods (Count and Term Frequency-Inverse Document Frequency Vectorizers)
+- Hyperparameter Testing
+- How to utilize all sorts of functions within the sklearn library!
+
+  
+## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
+I was tasked to redesign one of ISS Group's products, iPurchase, a new frontend with Material Design Bootstrap. There are loads of features within this UI, such as field labels are dynamic, the tabs transform into an accordion when the screen size is small, and the tables change layout when the screen size is small as well. It was fantastic to be deeply involved in creating their new UI, and I appreciated how we were never content with our current product. We knew we could always make our system better, so iPurchase went under many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
+
+Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight on what works with our frontend, and what doesn't. I will additionally be rebuilding the frontend with ReactJS.
+
+Tech Stack:
+- HTML
+- CSS (MDBootstrap)
+- Javascript
+
+<img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e"/>
+
 
 # Future Projects
 
