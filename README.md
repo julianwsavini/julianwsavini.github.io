@@ -33,9 +33,9 @@ Constructed ML model to identify potentially false news articles with 92% accura
 Email: savini.j@northeastern.edu
 
 Some of the roles I am interested in:
--Data Science
--Data Analytics
--Data Visualization
--Data Engineering
--Product Management
--UI/UX Design
+- Data Science
+- Data Analytics
+- Data Visualization
+- Data Engineering
+- Product Management
+- UI/UX Design
