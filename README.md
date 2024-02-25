@@ -12,11 +12,11 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 ## Recipe Recommendation System (Group Project)
 For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
 
-We were particularly intrigued by using a graph network to construct a recommendation system. I was responsible for designing the graph network, and constructing the user interface. I designed the graph network on paper, to later be passed on to the rest of my group. I constructed the website using Python Flask, HTML, and CSS. (My frontend engineering skills were still at their infancy during this time, but it was still neat to have a frontend for a data project!)
+We established a goal of using a graph network to construct a recommendation system. I was responsible for design of the graph network and construction of the user interface. I drafted the graph network on paper, to be reviewed by the rest of my group. I then constructed the website using Python Flask, HTML, and CSS. At that point, my frontend engineering skills were still in their infancy, but it was great to have a frontend for a data project!
 
-### What skills I gained:
+### Skills I developed:
 - Graph Database Design
-- Python Flask
+- Use of Python Flask
 - Collaboration
 
 <img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/be9a18c4-7668-4dce-8f44-f7162d6b54a3"/>
@@ -25,18 +25,18 @@ Click [here](https://drive.google.com/file/d/1TiQC1zzqniXXINrGcj9z7QzKvLYAtVs-/v
 
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis](https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project)
-We were tasked with creating data visualizations that can be of use to a designated stakeholder. We designed an interactive graph for the team at BlueBikes responsible for deploying stations. Our visualizations used bike accident data paired with station data, to hopefully ensure safety of the BlueBikes customers. The first graph is a heat map of bike accidents, with points of where stations are located. If you hover over the points, you can see the in and out flow of each station. If you switch modes, you can drag your mouse over the left graph to see where accidents are occuring (street versus intersection). This data can be of use to our stakeholders, who can hopefully use this to carefully place stations away from hazardous areas.
+We were tasked with creating data visualizations to be used by a designated stakeholder. We designed an interactive graph for the team at BlueBikes that is responsible for establishing station locations. Our visualizations used bike accident data paired with station data, to hopefully increase safety for BlueBikes customers. The first graph is a heat map of bike accidents with points where stations are located. Hovering over the points shows the in- and out-flow of each station. If you switch modes, you can drag your mouse over the left graph to see where accidents occur (street versus intersection). This data can be used by BlueBikes when determining station locationsfarther from hazardous areas.
 
 ### What I contributed:
-Once my group had created the heatmap, I was responsible for making the bar and pie chart, and linking these charts to the heat map such that they were interactive. This involved creating tooltips, brushing and linking, and hovering over elements to regenerate new graphs. I also was a large part of the design process, where I was accessing who our stakeholders are, and what visualizations could be used to help in their decision making of where BlueBike stations should be to ensure safety.
+Once my group had created the heatmap, I was responsible for creating the bar and pie chart, as well as for linking these charts to the heat map such that they were interactive. This involved creating tooltips, brushing and linking, and hovering over elements to regenerate new graphs. I played a large part in the design process, as I assessed who our stakeholders were, and which visualizations would be most useful in their decision making regarding safe placement of BlueBikes stations.
 
 ### Tech Stack:
 - HTML
 - CSS
 - Javascript (d3 library)
 
-### What Skills I Gained:
-- Creating interactive visualizations using Javascript's d3 library
+### Skills I developed:
+- Creation of interactive visualizations using Javascript's d3 library
 - Design Thinking
 - Collaboration
 
@@ -44,20 +44,20 @@ Check out site here: [BlueBikes Visualization](https://ds4200-s23-class.github.i
 
 
 ## Machine Learning - [News Classifier](https://github.com/julianwsavini/news_classification)
-Although it was only my second year programming, I wanted to be ambitious, and use Natural Language Processing and Machine Learning to determine if a news article contains false information.
+Although this project was completed during only my second year of programming, I stretched my skillset and decided to use use Natural Language Processing and Machine Learning to determine if a news article contains false information.
 
-This was a group project, and I was responsible for constructing the machine learning models. Since others had not had any experience in Python, we wanted to play to our strengths, so as others were doing research and creating the project proposals, posters, and slides, I was very excited to perform machine learning. I utilized K-Nearest Neighbors, Gaussian NB, and Random Forest models to train my data, with the best model receiving an accuracy of 89.2% accuracy.
+This was a group project, and I was responsible for constructing the machine learning models. Since other group members did not have Python experience, we wanted for each member to play to their strengths.  Therefore, as others did research and created the project proposals, posters, and slides, I was excited to handle machine learning tasks. I utilized K-Nearest Neighbors, Gaussian NB, and Random Forest models to train my data, with the best model achieving 89.2% accuracy.
 
-### What skills I gained:
+### Skills I developed:
 - Natural Language Processing Data Cleaning Methods (Count and Term Frequency-Inverse Document Frequency Vectorizers)
 - Hyperparameter Testing
-- How to utilize all sorts of functions within the sklearn library!
+- Utilization of many functions within the sklearn library
 
   
 ## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
-I was tasked to redesign one of ISS Group's products, iPurchase, a new frontend with Material Design Bootstrap. There are loads of features within this UI, such as field labels are dynamic, the tabs transform into an accordion when the screen size is small, and the tables change layout when the screen size is small as well. It was fantastic to be deeply involved in creating their new UI, and I appreciated how we were never content with our current product. We knew we could always make our system better, so iPurchase went under many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
+I was tasked with the redesign of one of ISS Group's new frontend products, iPurchase. This was done using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout depending upon screen size. It was fantastic to be deeply involved in creating their new UI, and I appreciate that the group involved in review and decision making was never content with whichever incarnation of the product was in front of them. We knew we could always make the system better, so iPurchase underwent many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
 
-Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight on what works with our frontend, and what doesn't. I will additionally be rebuilding the frontend with ReactJS.
+Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend with using ReactJS.
 
 Tech Stack:
 - HTML
@@ -70,12 +70,12 @@ Tech Stack:
 # Future Projects
 
 ## Song chord prediction with Markov chains (Python)
-For my Artificial Intelligence project, my group and I want to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
+I am currently enrolled in Artificial Intelligence. For this course, my group and I intend to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
 
-I am excited to also use my music minor and music theory skills to build this project!
+I am excited to be able to use knowledge gained in courses for my music minor and my music theory skills to build this project!
 
 ## Recipe box web application focusing on user testing and UX
-For my Human Computer Interaction project, my group and I are creating a digital recipe box using Figma (as of now), where users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
+I am currently enrolled in Human Computer Interaction. For this course, my group and I are creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
 
 # Contact
 Email: savini.j@northeastern.edu
