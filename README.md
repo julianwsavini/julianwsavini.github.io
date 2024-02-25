@@ -32,10 +32,10 @@ Constructed ML model to identify potentially false news articles with 92% accura
 # Contact
 Email: savini.j@northeastern.edu
 
-Some of the internships I am most interested in:
-Data Science
-Data Analytics
-Data Visualization
-Data Engineering
-Product Management
-UI/UX Design
+Some of the roles I am interested in:
+-Data Science
+-Data Analytics
+-Data Visualization
+-Data Engineering
+-Product Management
+-UI/UX Design
