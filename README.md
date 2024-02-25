@@ -59,8 +59,12 @@ Tech Stack:
 # Future Projects
 
 ## Song chord prediction with Markov chains (Python)
+For my Artificial Intelligence project, my group and I want to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
 
-## Recipe box web application focusing on user testing and UX (Figma, [other UX tools])
+I am excited to also use my music minor and music theory skills to build this project!
+
+## Recipe box web application focusing on user testing and UX
+For my Human Computer Interaction project, my group and I are creating a digital recipe box using Figma (as of now), where users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
 
 # Contact
 Email: savini.j@northeastern.edu
