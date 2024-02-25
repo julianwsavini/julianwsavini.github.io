@@ -14,6 +14,8 @@ For DS4300: Large Scale Information and Retrieval, we were tasked with using one
 
 We were particularly intrigued by using a graph network to construct a recommendation system, particularly a recipe recommendation system. Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
 
+<img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/be9a18c4-7668-4dce-8f44-f7162d6b54a3"/>
+
 Click [here](https://drive.google.com/file/d/1TiQC1zzqniXXINrGcj9z7QzKvLYAtVs-/view) to see the recommendation system in action!
 
 
