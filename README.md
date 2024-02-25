@@ -10,7 +10,11 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 # Projects
 
 ## Recipe Recommendation System (Group Project)
-Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
+For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
+
+We were particularly intrigued by using a graph network to construct a recommendation system, particularly a recipe recommendation system. Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
+
+Click [here](https://drive.google.com/file/d/1TiQC1zzqniXXINrGcj9z7QzKvLYAtVs-/view) to see the recommendation system in action!
 
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis](https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project)
