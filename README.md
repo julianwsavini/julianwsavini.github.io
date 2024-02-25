@@ -12,7 +12,12 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 ## Recipe Recommendation System (Group Project)
 For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
 
-We were particularly intrigued by using a graph network to construct a recommendation system, particularly a recipe recommendation system. Constructed a website using HTML, CSS, and Neo4j to provide users with recipe suggestions based on their preference data. Utilized Flask in Python to gather user input data and provide dynamic recipe recommendations.
+We were particularly intrigued by using a graph network to construct a recommendation system. I was responsible for designing the graph network, and constructing the user interface. I designed the graph network on paper, to later be passed on to the rest of my group. I constructed the website using Python Flask, HTML, and CSS.
+
+### What skills I gained:
+- Graph Database Design
+- Python Flask
+- Collaboration
 
 <img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/be9a18c4-7668-4dce-8f44-f7162d6b54a3"/>
 
