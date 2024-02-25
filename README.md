@@ -28,3 +28,14 @@ Constructed ML model to identify potentially false news articles with 92% accura
 ## Song chord prediction with Markov chains (Python)
 
 ## Recipe box web application focusing on user testing and UX (Figma, [other UX tools])
+
+# Contact
+Email: savini.j@northeastern.edu
+
+Some of the internships I am most interested in:
+Data Science
+Data Analytics
+Data Visualization
+Data Engineering
+Product Management
+UI/UX Design
