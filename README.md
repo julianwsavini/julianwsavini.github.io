@@ -57,7 +57,7 @@ This was a group project, and I was responsible for constructing the machine lea
 ## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
 I was tasked with the redesign of one of ISS Group's new frontend products, iPurchase. This was done using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout depending upon screen size. It was fantastic to be deeply involved in creating their new UI, and I appreciate that the group involved in review and decision making was never content with whichever incarnation of the product was in front of them. We knew we could always make the system better, so iPurchase underwent many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
 
-Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend with using ReactJS.
+Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
 
 Tech Stack:
 - HTML
