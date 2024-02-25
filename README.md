@@ -25,10 +25,10 @@ Click [here](https://drive.google.com/file/d/1TiQC1zzqniXXINrGcj9z7QzKvLYAtVs-/v
 
 
 ## Data Visualization (Group Project) - [BlueBike Traffic/Accident Analysis](https://github.com/julianwsavini/BlueBikes_Visualization_Final_Project)
-We were tasked with creating data visualizations to be used by a designated stakeholder. We designed an interactive graph for the team at BlueBikes that is responsible for establishing station locations. Our visualizations used bike accident data paired with station data, to hopefully increase safety for BlueBikes customers. The first graph is a heat map of bike accidents with points where stations are located. Hovering over the points shows the in- and out-flow of each station. If you switch modes, you can drag your mouse over the left graph to see where accidents occur (street versus intersection). This data can be used by BlueBikes when determining station locationsfarther from hazardous areas.
+We were tasked with creating data visualizations to be used by a designated stakeholder. We designed an interactive graph for the team at BlueBikes that is responsible for establishing station locations. Our visualizations used bike accident data paired with station data, to hopefully increase safety for BlueBikes customers. The first graph is a heat map of bike accidents with points where stations are located. Hovering over the points shows the in- and out-flow of each station. If you switch modes, you can drag your mouse over the left graph to see where accidents occur (street versus intersection). This data can be used by BlueBikes when determining station locations farther from hazardous areas.
 
 ### What I contributed:
-Once my group had created the heatmap, I was responsible for creating the bar and pie chart, as well as for linking these charts to the heat map such that they were interactive. This involved creating tooltips, brushing and linking, and hovering over elements to regenerate new graphs. I played a large part in the design process, as I assessed who our stakeholders were, and which visualizations would be most useful in their decision making regarding safe placement of BlueBikes stations.
+Once my group had created the heatmap, I was responsible for creating the bar and pie charts, as well as for linking these charts to the heat map such that they were interactive. This involved creating tooltips, brushing and linking, and making possible the hovering over elements to regenerate new graphs. I played a large part in the design process, as I assessed who our stakeholders were, and determined which visualizations would be most useful in their decision making, regarding safe placement of BlueBikes stations.
 
 ### Tech Stack:
 - HTML
@@ -46,7 +46,7 @@ Check out site here: [BlueBikes Visualization](https://ds4200-s23-class.github.i
 ## Machine Learning - [News Classifier](https://github.com/julianwsavini/news_classification)
 Although this project was completed during only my second year of programming, I stretched my skillset and decided to use use Natural Language Processing and Machine Learning to determine if a news article contains false information.
 
-This was a group project, and I was responsible for constructing the machine learning models. Since other group members did not have Python experience, we wanted for each member to play to their strengths.  Therefore, as others did research and created the project proposals, posters, and slides, I was excited to handle machine learning tasks. I utilized K-Nearest Neighbors, Gaussian NB, and Random Forest models to train my data, with the best model achieving 89.2% accuracy.
+This was a group project, and I was responsible for constructing the machine learning models. Other group members did not have Python experience, and we wanted for each member to play to their strengths.  Therefore, as others did research and created the project proposals, posters, and slides, I was excited to handle machine learning tasks. I utilized K-Nearest Neighbors, Gaussian NB, and Random Forest models to train my data, with the best model achieving 89.2% accuracy.
 
 ### Skills I developed:
 - Natural Language Processing Data Cleaning Methods (Count and Term Frequency-Inverse Document Frequency Vectorizers)
@@ -55,9 +55,9 @@ This was a group project, and I was responsible for constructing the machine lea
 
   
 ## UI/UX Design (Co-Op) - ISS Group - [See UI Here](https://github.com/julianwsavini/Co-Op-Project)
-I was tasked with the redesign of one of ISS Group's new frontend products, iPurchase. This was done using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout depending upon screen size. It was fantastic to be deeply involved in creating their new UI, and I appreciate that the group involved in review and decision making was never content with whichever incarnation of the product was in front of them. We knew we could always make the system better, so iPurchase underwent many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
+I was tasked with the redesign of one of ISS Group's frontend products, iPurchase. This was done using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout depending upon screen size. It was fantastic to be deeply involved in creating their new UI, and I appreciate that the group involved in review and decision making was never content with whichever incarnation of the product was in front of them. We knew we could always make the system better, so iPurchase underwent many, many design iterations. It was a fantastic first co-op experience, and I'm excited to see what I'll be doing next!
 
-Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
+Until May, I am working part-time for ISS Group, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
 
 Tech Stack:
 - HTML
@@ -70,12 +70,12 @@ Tech Stack:
 # Future Projects
 
 ## Song chord prediction with Markov chains (Python)
-I am currently enrolled in Artificial Intelligence. For this course, my group and I intend to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
+I am currently enrolled in an Artificial Intelligence course. For this course, my group and I intend to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
 
 I am excited to be able to use knowledge gained in courses for my music minor and my music theory skills to build this project!
 
 ## Recipe box web application focusing on user testing and UX
-I am currently enrolled in Human Computer Interaction. For this course, my group and I are creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
+I am currently enrolled in a Human Computer Interaction course. For this course, my group and I are creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
 
 # Contact
 Email: savini.j@northeastern.edu
