@@ -9,6 +9,11 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 
 # Projects
 
+## Recipe box web application focusing on user testing and UX
+I was enrolled in a Human Computer Interaction course. For this course, my group and I were creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We used modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we could.
+
+Click [here]([https://drive.google.com/file/d/1TiQC1zzqniXXINrGcj9z7QzKvLYAtVs-/view](https://www.figma.com/proto/LPmYxoLSqbYDOyGpf7ATzO/RecipeBoxV2?node-id=2-653&starting-point-node-id=2%3A653&t=PfGJS3ovF9fRBuSM-1)) to see the Figma prototype in action!
+
 ## Recipe Recommendation System (Group Project)
 For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
 
@@ -73,9 +78,6 @@ Tech Stack:
 I am currently enrolled in an Artificial Intelligence course. For this course, my group and I intend to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
 
 I am excited to be able to use knowledge gained in courses for my music minor and my music theory skills to build this project!
-
-## Recipe box web application focusing on user testing and UX
-I am currently enrolled in a Human Computer Interaction course. For this course, my group and I are creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We are using modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we can.
 
 # Contact
 Email: savini.j@northeastern.edu
