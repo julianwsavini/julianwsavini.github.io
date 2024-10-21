@@ -1,7 +1,7 @@
 # About Me
-I am a detail-oriented, adaptable, ambitious student seeking employment in data science, UI/UX design, and product management. I am skilled in designing solutions, building applications, and supporting others in developing technical skills. 
+I am a detail-oriented, adaptable, ambitious student seeking employment in data science, UI/UX design, and product management. I am skilled in designing solutions, building applications, and supporting others in developing technical skills.
 
-I recently worked as a UI/UX engineer, redesigning a frontend using modern UX principles and A/B testing. I have full-stack development experience constructing CRM software. As a teaching assistant at Northeastern, I graded assignments and provided guidance to 30 students as they navigated Python programming concepts.
+I recently worked as a data scientist for the Instiute for Experiential AI at the Roux Institute, where I created annotation guidelines and calculated statistics for RLHF in LLMs, improving data and pipeline performance. I have also modified DeepEval's faithfulness metric code to evaluate faithfulness in RAG systems, enhancing model evaluation accuracy. I am building a 1B parameter LLM from scratch, collaborating on model design, training, and optimization.
 
 I am motivated to continue learning, honing my skills, and solving problems with technology. My strengths include quick mastery of new programming tools, collaboration across teams, and ability to evaluate and focus on end-user needs when designing interfaces.
 
