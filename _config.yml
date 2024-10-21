@@ -1,6 +1,6 @@
 title: Julian Savini
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
