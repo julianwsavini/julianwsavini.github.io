@@ -1,4 +1,3 @@
-# About Me
 I am a detail-oriented, adaptable, ambitious student seeking employment in data science, UI/UX design, and product management. I am skilled in designing solutions, building applications, and supporting others in developing technical skills.
 
 I recently worked as a data scientist for the Instiute for Experiential AI at the Roux Institute, where I created annotation guidelines and calculated statistics for RLHF in LLMs, improving data and pipeline performance. I have also modified DeepEval's faithfulness metric code to evaluate faithfulness in RAG systems, enhancing model evaluation accuracy. I am building a 1B parameter LLM from scratch, collaborating on model design, training, and optimization.
@@ -70,14 +69,6 @@ Tech Stack:
 - Javascript
 
 <img src="https://github.com/julianwsavini/julianwsavini.github.io/assets/93225744/a285bfc4-d173-47a9-b01d-f63eac242d0e"/>
-
-
-# Future Projects
-
-## Song chord prediction with Markov chains (Python)
-I am currently enrolled in an Artificial Intelligence course. For this course, my group and I intend to use Hidden Markov Models to predict the next chord of a song, given the previous chord progression. We intend to parse through song data and extract note pitch, velocity, and duration from the data to train the model (using Python).
-
-I am excited to be able to use knowledge gained in courses for my music minor and my music theory skills to build this project!
 
 # Contact
 Email: savini.j@northeastern.edu
