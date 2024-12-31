@@ -10,10 +10,12 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 
 # Projects
 
-## Recipe box web application focusing on user testing and UX
-I was enrolled in a Human Computer Interaction course. For this course, my group and I were creating a digital recipe box using Figma (as of now), in which users can add and edit recipes. We used modern UI/UX principles, user personas, user research, and prototyping (using Figma) to create the best user interface we could.
+## Faithfulness for Instruction Giving
+### Project Overview
+During my data scientist co-op for the AI Solutions Hub at the Roux, I was tasked with working on a RAG project for Evity. Evity is a healthtech company focused on leveraging world class health research with AI to enable all people to live longer, healthier lives. The AI Solutions Hub developed a RAG (Retrieval Augmented Generation) model, which utilized medical papers to generate exercise regimines for customers, given their health conditions. I was specifically pulled in the project to lead RAG evaluation, specifically measuring faithfulness (which measures how well the outputs align with the medical papers).
 
-Click [here](https://www.figma.com/proto/LPmYxoLSqbYDOyGpf7ATzO/RecipeBoxV2?node-id=2-653&starting-point-node-id=2%3A653&t=PfGJS3ovF9fRBuSM-1) to see the Figma prototype in action! Just a heads up, we only used the free version, so the prototype is not very flexible, and you can just click on search fields to mimic searching a recipe.
+### Initial Research/Implementaton
+Originally, I researched multiple pre-existing evaluation frameworks, by reading 15+ papers on RAG evaluation, and viewing the frameworks' documentation. I ultimately decided to use DeepEval, since DeepEval compares statements from the RAG output to each statement from the relevant medical papers. 
 
 ## Recipe Recommendation System (Group Project)
 For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
