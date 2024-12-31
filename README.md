@@ -15,7 +15,15 @@ As I explore professional roles, I am seeking opportunities to apply my technica
 During my data scientist co-op for the AI Solutions Hub at the Roux, I was tasked with working on a RAG project for Evity. Evity is a healthtech company focused on leveraging world class health research with AI to enable all people to live longer, healthier lives. The AI Solutions Hub developed a RAG (Retrieval Augmented Generation) model, which utilized medical papers to generate exercise regimines for customers, given their health conditions. I was specifically pulled in the project to lead RAG evaluation, specifically measuring faithfulness (which measures how well the outputs align with the medical papers).
 
 ### Initial Research/Implementaton
-Originally, I researched multiple pre-existing evaluation frameworks, by reading 15+ papers on RAG evaluation, and viewing the frameworks' documentation. I ultimately decided to use DeepEval, since DeepEval compares statements from the RAG output to each statement from the relevant medical papers. 
+Originally, I researched multiple pre-existing evaluation frameworks, by reading 15+ papers on RAG evaluation, and viewing the frameworks' documentation. I ultimately decided to use DeepEval, for a multitude of reasons:
+a) DeepEval compares statements from the RAG output (called "claims") to each statement from the relevant medical papers (called "truths"). This allows for more transparency, as I could see the assessment between each claim-truth pair.
+b) DeepEval labels each claim-truth pair as either "supported", "not supported", or "no evidence". This third option prevents the model from being forced to pick between two options.
+c) DeepEval is compatible with AWS Bedrock prompting methods. Other popular evaluation frameworks, such as RAGAS, are dependent on an OpenAI API.
+
+However, after reviewing the outputs, we confirmed that DeepEval was not effective in evaluating faithfulness for our RAG model. There were three primary issues that lied in DeepEval's framework:
+a) DeepEval ensures the generated truths are consistent with the LLM's pretrained world knowledge. This fact checking is not needed, and it strictly contradicts the premise that faithfulness measures how well the RAG adheres to the retreival context, regardless if the information is actually real or not.
+b) 
+c) compare the claims to the truths, as the framework could not compare imperative sentences from the RAG output, to the declarative sentences from the medical papers. Therefore, I got the opportunity to make my own evaluation framework, to properly evaluate faithfulness for the Evity RAG model.
 
 ## Recipe Recommendation System (Group Project)
 For DS4300: Large Scale Information and Retrieval, we were tasked with using one or more NoSQL databases for our project. 
